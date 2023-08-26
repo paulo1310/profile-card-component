@@ -25,8 +25,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/paulo1310/profile-card-component)
-- Live Site URL: targent: blank (https://paulo1310.github.io/profile-card-component/)
+- Solution URL: (https://github.com/paulo1310/profile-card-component)
+- Live Site URL: (https://paulo1310.github.io/profile-card-component/)
 
 ### Built with
 
